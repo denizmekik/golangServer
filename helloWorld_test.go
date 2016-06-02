@@ -1,6 +1,6 @@
 // There are 3 unit tests in this file
 // TestHi tests the response when regular json data sent
-// TestHiWithEmptyFields tests the response when json data sent with emthy fields
+// TestHiWithEmptyFields tests the response when json data sent with empty fields
 // TestHiWithNilBody tests the response when request body is nil
 
 package main

@@ -1,4 +1,4 @@
-// Golang Rest API server. It runs on localhost at port 8080
+// Golang Rest API server. It runs on localhost at port:8080
 // Simply servers post requests are sent with json data at '/hi' endpoint
 
 package main

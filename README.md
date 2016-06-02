@@ -1,4 +1,4 @@
-Hello World APP  [![Build Status](https://travis-ci.org/denizmekik/golangServer.png?branch=master)](https://travis-ci.org/denizmekik/golangServer)
+**Hello World APP**  [![Build Status](https://travis-ci.org/denizmekik/golangServer.png?branch=master)](https://travis-ci.org/denizmekik/golangServer)
 
 HelloWorld.go is simple REST API Server written in Golang. It serves to only POST requests that are received to "/hi" endpoint.
 For example, when a post request is sent with json, {firstName: "Deniz", lastName: "Mekik"}, the response will be a json, {body: "Hi Deniz Mekik"}

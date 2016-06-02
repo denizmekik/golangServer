@@ -12,5 +12,3 @@ There is 3 different test cases to test the application.
 TO DO
 More test cases, e.g. Type, name length checking
 
-Travis build passed Badge
-![alt tag](http://s33.postimg.org/bilkktkkv/Passed_Badge.png)
